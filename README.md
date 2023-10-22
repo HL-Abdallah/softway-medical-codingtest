@@ -1,5 +1,5 @@
 # softway-medical-codingtest-API
-Cet API contien un seul endpoint, une fois la repository est cloné et l'API est lancé, vous pouvez le tester sur swagger sur ce lien : 
+Cette API contient un seul endpoint. Une fois que la repository est cloné et que l'API est lancée, vous pouvez le tester sur Swagger en suivant ce lien :
 
 http://localhost:8080/swagger-ui/index.html
 
